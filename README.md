@@ -17,6 +17,9 @@ https://github.com/KitronikLtd/Kitronik-Pico-Simply-Servos-MicroPython
 MicroPython:
 https://micropython.org/download/RPI_PICO/
 
+Thony - Python IDE:
+https://thonny.org/
+
 ![obrazek](https://github.com/user-attachments/assets/037459ef-2290-447e-9232-8cee4701572a)
 ![obrazek](https://github.com/user-attachments/assets/ea8af646-57ac-40c6-a803-de6b6adfb3fe)
 ![Uploading obrazek.png…]()
