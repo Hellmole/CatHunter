@@ -1,4 +1,4 @@
-í# CatHunter
+# CatHunter
  "CatHunter" - super easy spider robot powered by Raspberry Pi Pico
 
 Video:
