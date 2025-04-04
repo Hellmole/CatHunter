@@ -1,6 +1,9 @@
 # CatHunter
  "CatHunter" - super easy spider robot powered by Raspberry Pi Pico
 
+Video:
+https://www.youtube.com/watch?v=WLhjkwN1P1g
+
 Material:
 
 - Raspberyy Pi Pico
