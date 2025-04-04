@@ -1,4 +1,4 @@
-# CatHunter
+í# CatHunter
  "CatHunter" - super easy spider robot powered by Raspberry Pi Pico
 
 Video:
@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=WLhjkwN1P1g
 
 Material:
 
-- Raspberyy Pi Pico
+- Raspberry Pi Pico
 - Kitronik Simply Servos (https://resources.kitronik.co.uk/pdf/5339-kitronik-simply-servos-raspberry-pi-pico-datashseet.pdf)
 - Micro servo SG90
 - NiMH 6V or AC/DC adapter 4A 5V
